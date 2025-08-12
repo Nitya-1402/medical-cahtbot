@@ -1,4 +1,4 @@
- 🩺 Medical Chatbot
+# 🩺 Medical Chatbot
 
 An AI-powered medical chatbot that provides health-related information and symptom-based guidance using natural language processing.
 
